@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-leader<c> TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
@@ -14,7 +14,7 @@ leader<c> TILs and counting..._
 
 ### Vim
 
-- [](vim/count-tils.md)
+- [Count TIL's](vim/count-tils.md)
 
 ## Usage
 
@@ -32,7 +32,7 @@ I borrowed this idea from other TIL collections below.
 * [thoughtbot/til](https://github.com/thoughtbot/til).
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
-* [milooy/TIL] (https://github.com/milooy/TIL)
+* [milooy/TIL](https://github.com/milooy/TIL)
 
 ## License
 
