@@ -16,12 +16,6 @@ _1 TILs and counting..._
 
 - [Count TIL's](vim/count-tils.md)
 
-## Usage
-
-The `.vimrc` file for this project contains a function `CountTILs` that can
-be invoked with `<leader>c`. This will do a substitution count of the
-current number of TILs and display the result in the command tray.
-
 ## About
 
 I borrowed this idea from other TIL collections below.
@@ -31,7 +25,7 @@ I borrowed this idea from other TIL collections below.
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [thoughtbot/til](https://github.com/thoughtbot/til).
 * [jwworth/til](https://github.com/jwworth/til)
-* [thoughtbot/til](https://github.com/thoughtbot/til)
+* [jbranchaud/til](https://github.com/jbranchaud/til)
 * [milooy/TIL](https://github.com/milooy/TIL)
 
 ## License
