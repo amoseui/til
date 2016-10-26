@@ -8,9 +8,14 @@ _1 TILs and counting..._
 
 ### Categories
 
-* [Vim](#vim)
+* [Hexo](#Hexo)
+* [Vim](#Vim)
 
 ---
+
+### Hexo
+
+- [Update a new post](hexo/update-a-new-post.md)
 
 ### Vim
 

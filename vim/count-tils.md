@@ -10,6 +10,7 @@ set exrc
 set secure
 ```
 
+---
 
 .vimrc in til project  
 ```vim
