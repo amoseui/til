@@ -2,16 +2,21 @@
 
 > Today I Learned
 
-_1 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [git](#git)
 * [Hexo](#Hexo)
 * [Vim](#Vim)
 
 ---
+
+### git
+
+- [Generate and apply a git patch](git/generate-and-apply-a-git-patch.md)
 
 ### Hexo
 
