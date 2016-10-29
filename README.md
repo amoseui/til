@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -10,6 +10,7 @@ _3 TILs and counting..._
 
 * [git](#git)
 * [Hexo](#Hexo)
+* [Python](#Python)
 * [Vim](#Vim)
 
 ---
@@ -21,6 +22,10 @@ _3 TILs and counting..._
 ### Hexo
 
 - [Update a new post](hexo/update-a-new-post.md)
+
+### Python
+
+- [Use repr strings for debugging output](python/use-repr-strings-for-debugging-output.md)
 
 ### Vim
 
