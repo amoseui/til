@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _5 TILs and counting..._
 ### git
 
 - [Generate and apply a git patch](git/generate-and-apply-a-git-patch.md)
+- [Untrack files after add in .gitignore](git/untrack-files-after-add-in-gitignore.md)
 
 ### Gradle
 
