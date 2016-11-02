@@ -2,13 +2,14 @@
 
 > Today I Learned
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [git](#git)
+* [Gradle](#Gradle)
 * [Hexo](#Hexo)
 * [Python](#Python)
 * [Vim](#Vim)
@@ -18,6 +19,10 @@ _4 TILs and counting..._
 ### git
 
 - [Generate and apply a git patch](git/generate-and-apply-a-git-patch.md)
+
+### Gradle
+
+- [Get properties or environment variables](gradle/get-properties-or-environment-variables.md)
 
 ### Hexo
 
