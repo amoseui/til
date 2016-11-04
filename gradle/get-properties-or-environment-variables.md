@@ -23,7 +23,7 @@ def key = project.hasProperty('KEY') ? KEY : "$System.env.KEY"
 android {
   defaultConfig {
     ...
-    buildConfigField 'String', 'KEY', key
+    buildConfigField 'String', 'KEY', "\"${key}\""
   }
 }
 ```
