@@ -4,7 +4,7 @@ Get some variables from hidden files or environment
 
 Set variables in gradle.properties
 ```ruby
-KEY="AZ2Fdfjlafj23jfaZKEF"
+KEY=AZ2Fdfjlafj23jfaZKEF
 ```
 or
 
