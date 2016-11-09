@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -12,6 +12,7 @@ _6 TILs and counting..._
 * [Gradle](#Gradle)
 * [Hexo](#Hexo)
 * [Python](#Python)
+* [test](#test)
 * [Vim](#Vim)
 
 ---
@@ -32,6 +33,10 @@ _6 TILs and counting..._
 ### Python
 
 - [Use repr strings for debugging output](python/use-repr-strings-for-debugging-output.md)
+
+### test
+
+- [Test Terms (ko)](test/test-terms.md)
 
 ### Vim
 
