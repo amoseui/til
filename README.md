@@ -34,9 +34,9 @@ _7 TILs and counting..._
 
 - [Use repr strings for debugging output](python/use-repr-strings-for-debugging-output.md)
 
-### test
+### testing
 
-- [Test Terms (ko)](test/test-terms.md)
+- [Test Terms (ko)](testing/test-terms.md)
 
 ### Vim
 
