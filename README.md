@@ -12,7 +12,7 @@ _7 TILs and counting..._
 * [Gradle](#Gradle)
 * [Hexo](#Hexo)
 * [Python](#Python)
-* [test](#test)
+* [testing](#testing)
 * [Vim](#Vim)
 
 ---
