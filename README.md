@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -11,6 +11,7 @@ _7 TILs and counting..._
 * [git](#git)
 * [Gradle](#Gradle)
 * [Hexo](#Hexo)
+* [Java](#Java)
 * [Python](#Python)
 * [testing](#testing)
 * [Vim](#Vim)
@@ -29,6 +30,10 @@ _7 TILs and counting..._
 ### Hexo
 
 - [Update a new post](hexo/update-a-new-post.md)
+
+### Java
+
+- [Common terms (ko)](java/common-terms.md)
 
 ### Python
 
